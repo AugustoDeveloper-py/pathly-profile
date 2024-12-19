@@ -14,7 +14,7 @@ const ProfileLinks = () => {
         },
         {
             title: 'About me',
-            url: '/about',
+            url: '#/about', 
             caption: 'Learn more about my journey and goals.',
             gradient: 'from-pink-600 to-rose-600'
         },
