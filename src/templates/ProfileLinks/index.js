@@ -26,7 +26,7 @@ const ProfileLinks = () => {
         },
         {
             title: 'Instagram',
-            url: 'https://www.instagram.com/augustodeveloper.py/',
+            url: 'https://www.instagram.com/augustodevelop.py/?igsh=cWtvdjNnMTE3YjNv',
             caption: 'Check out my latest moments and interests.',
             gradient: 'from-sky-600 to-cyan-600'
         },
