@@ -26,17 +26,13 @@ const ProfileLinks = () => {
         },
         {
             title: 'Instagram',
-<<<<<<< HEAD
-            url: 'https://www.instagram.com/augustodevelop.py/?igsh=cWtvdjNnMTE3YjNv',
-=======
             url: 'https://www.instagram.com/augustodevelop.py/',
->>>>>>> 5050b28 (Fix routing for GitHub Pages 2)
             caption: 'Check out my latest moments and interests.',
             gradient: 'from-sky-600 to-cyan-600'
         },
         {
             title: 'Threads',
-            url: 'https://www.threads.net/@augustodevelop.py',
+            url: 'https://www.threads.net/@augustodevelop.py?',
             caption: 'Join the conversation and my latest thoughts.',
             gradient: 'from-blue-600 to-indigo-600'
         }
